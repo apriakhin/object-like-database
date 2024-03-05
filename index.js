@@ -1,5 +1,5 @@
 // @ts-check
 
-import half from './src/half.js';
+import employeeDB from './src/object-like-database.js';
 
-export default half;
+export default employeeDB;
